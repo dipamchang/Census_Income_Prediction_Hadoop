@@ -4,4 +4,4 @@ This data set was taken from UCI Machine Learning Repository
 
 To make classification , Naive Bayesian Algorithm is implemented.
 
-#todo more details
+TODO- add more info
